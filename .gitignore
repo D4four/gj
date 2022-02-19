@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#VS
+/Project1/x64/Debug
